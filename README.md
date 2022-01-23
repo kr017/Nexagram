@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+### Instagram kind of application to understand basics of NextJS and its built-in features.
+
 ## Getting Started
 
 First, run the development server:

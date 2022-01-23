@@ -5,9 +5,8 @@ const PostList = props => {
 
   return (
     <ul>
-      {postsList.map(post => (
-        <Post key={post.id} data={post} />
-      ))}
+      {postsList &&
+        postsList.map(post => <Post key={post.id} data={post} id={post.id} />)}
     </ul>
   );
 };
